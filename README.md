@@ -1,5 +1,5 @@
 - Hi, my name is Florina 👋🏼
-- My interest is on machine learning application for remote sensing and environmental research 🛰🌱
+- My interest is on machine learning applications in remote sensing and environmental research 🛰🌱
 - I am open for collaboration 👩🏻‍💻
 - You can reach me at florinastephanie@gmail.com or frichard@swinburne.edu.my 📨
 
